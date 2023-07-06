@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piotrlewoniec/filmoteka.git"
+    "url": "git+https://github.com/tojaarek/filmoteka.git"
   },
   "keywords": [],
   "author": "Code Ronins <coderonins@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piotrlewoniec/filmoteka/issues"
+    "url": "https://github.com/tojaarek/filmoteka/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
