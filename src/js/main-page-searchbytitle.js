@@ -48,9 +48,6 @@ async function searchMovie(event) {
           Search result not successful. Enter the correct movie name and try again
         </p>`,
       );
-      Notiflix.Notify.failure(
-        'Search result not successful. Enter the correct movie name and try again',
-      );
       clearMovieList();
       paginationContainer.innerHTML = '';
       return;
